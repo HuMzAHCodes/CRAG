@@ -1,0 +1,7 @@
+langgraph
+langchain-mistralai
+langchain-community
+faiss-cpu
+pypdf
+python-dotenv
+pydantic

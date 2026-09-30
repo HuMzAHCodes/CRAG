@@ -2,3 +2,9 @@ venv/
 .env
 __pycache__/
 *.pyc
+
+
+
+
+!self_rag/documents/
+!self_rag/documents/**
